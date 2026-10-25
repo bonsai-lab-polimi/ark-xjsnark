@@ -13,7 +13,7 @@ Add the crate to your existing project's `Cargo.toml`:
 
 ```toml
 [dependencies]
-parser = { git = "https://github.com/Ottimot/ark-xjsnark.git" }
+parser = { git = "https://github.com/bonsai-lab-polimi/ark-xjsnark.git" }
 ```
 
 Then import the parser with `use parser::Parser;`.
